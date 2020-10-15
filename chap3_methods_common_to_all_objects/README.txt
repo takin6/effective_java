@@ -1,0 +1,1 @@
+This chapter tells you when and how to override the nonfinal Object methods.
